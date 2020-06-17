@@ -1,0 +1,17 @@
+.container {
+    margin-top: 15vh;
+    display: flex;
+    justify-content: space-between;
+}
+
+img{
+    height: 380px;
+}
+
+input {
+    color: #6c63ff !important;
+}
+
+h1{
+    color: #6c63ff;
+}
